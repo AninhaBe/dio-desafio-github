@@ -1,0 +1,19 @@
+Comandos básicos de GIT
+
+- git config : pode ser usado para definir valor de configuração específicos do usuário como e-mail, nome de usuário.
+
+- git init : usado para criar um novo repositório GIT.
+
+- git add : pode ser usado para adicionar arquivos ao índice.
+
+- git clone : é usado para apontar para um repositório existente e fazer um clone ou cópia deste repositório no novo diretório, em outro local.
+
+- git commit : é usado para confirmar as alterações na cabeça.
+
+- git status : o comando exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
+
+- git push : envia as alterações feitas para o ramo mestre do repositório remoto.
+
+- git branch : pode ser usado para listar, criar ou excluir ramos.
+
+- git pull : é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais. 
